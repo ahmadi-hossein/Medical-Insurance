@@ -1,1 +1,1 @@
-Predicting medical insurance charges using classic ML regressors and ensembles on the popular **Medical Cost Personal Dataset**. Focus: clean preprocessing, solid evaluation, and **interpretable** results (feature importance / partial dependence).
+Predicting medical insurance charges using classic ML regressors and ensembles on the popular "Medical Cost Personal Dataset". Focus: clean preprocessing, solid evaluation, and "interpretable" results (feature importance / partial dependence).
